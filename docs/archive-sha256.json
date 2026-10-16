@@ -1,0 +1,9 @@
+{
+  "archive/HW3-1/agent.py": "51e05fd753b5811f4e5fa7f76930d6221475f96a254f016085952d76e357a2e4",
+  "archive/HW3-1/env_runner.py": "3baebef34c32f810a9940be203b1b486665b6bc9847bbe46acc30a9bf5d9668b",
+  "archive/HW3-1/model.py": "928c21adc7cb49f969d198f1c3620c7b18566e324bf4a7389632655084a9f606",
+  "archive/HW3-1/save/return.txt": "62c15c95e27eb99d3b93ed072c2abf12027ef8b1fb25c8ef5e3e67c153173f6d",
+  "archive/HW3-1/train.py": "9152721d84acdcccdd4b3b4695a6a9ecd83298ab20c02c6e3323005bccc59380",
+  "archive/HW3-2/model_play.py": "02890a024fa009e9879aa4a37ef210c42dd7589a8081f9e9f52a96dc88f561bd",
+  "archive/HW3-2/rl_play.py": "0d863e86a15c2b93656935ed7adba01a0108024995bd699a2766e72b74c24159"
+}
